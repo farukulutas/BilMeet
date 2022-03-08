@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911050758582",
+    "firebase_url": "https://bilmeetimagemap.firebaseio.com",
+    "project_id": "bilmeetimagemap",
+    "storage_bucket": "bilmeetimagemap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911050758582:android:493eaa7349931368338917",
+        "android_client_info": {
+          "package_name": "com.example.bilmeetimagemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911050758582-fptplkceeqc4odm3fmr7j5v1gn5k3334.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmwJdJMiI2ERpoe9tG8Ga0_lIhq9HJ5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911050758582-fptplkceeqc4odm3fmr7j5v1gn5k3334.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

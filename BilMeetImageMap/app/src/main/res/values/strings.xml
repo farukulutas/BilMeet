@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">BilMeet</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Main Campus</string>
+    <string name="menu_gallery">Messages</string>
+    <string name="menu_slideshow">Events</string>
+    <string name="menu_east">East Campus</string>
+    <string name="menu_middle">Middle Campus</string>
+    <string name="fragment_profile">Profile</string>
+
+
+    <string name="home_second">Home Second</string>
+    <string name="notifications">Notifications</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="bilkent_id">Student ID</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="nameAndSurname">\Tomas Cohen</string>
+    <string name="address">oklahama, usa</string>
+    <string name="followers">\2K</string>
+    <string name="followersTag">followers</string>
+    <string name="confidence">\4</string>
+    <string name="biography">\Best user page sample person!</string>
+    <string name="twitterUsername">\@tomas.cohen</string>
+    <string name="confidenceTag">confıdence</string>
+    <string name="biographyTag">Biography</string>
+    <string name="facebook">tomas.cohen</string>
+    <string name="facebookTag">Facebook</string>
+    <string name="twitterTag">Twitter</string>
+    <string name="instagramTag">Instagram</string>
+    <string name="instagram">tomas.cohen</string>
+
+    <string name="spor">Spor</string>
+    <string name="ders">Ders</string>
+    <string name="sohbet">Sohbet</string>
+    <string name="switch4">Yemek</string>
+    <string name="switch5">Ulaşım</string>
+    <string name="Create_an_Event">Create an Event</string>
+    <string name="Event_Name">Event name</string>
+    <string name="Event_Type">Event Type</string>
+    <string name="Remaining_Time">Remaining Time</string>
+
+    <string name="Enter_Name">Enter your event name.</string>
+    <string name="Select_Type">Select your event type.</string>
+    <string name="Time">Select the validity period of the event.</string>
+    <string name="Ten_Min">10 min.</string>
+    <string name="Twenty_Min">20 min.</string>
+    <string name="Thirty_Min">30 min.</string>
+    <string name="Fortyfive_Min">45 min.</string>
+    <string name="One_Hour">1 hour.</string>
+    <string name="Save">Save </string>
+
+    <string name="swipe_left_for_register">Swipe Left for Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Bilkent Email</string>
+    <string name="tag">Let\'s join us and \nenjoy the events in Bilkent University</string>
+    <string name="swipe_right_for_login">Swipe Right for Login</string>
+    <string name="register">Register</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="your_name">Full Name</string>
+    <string name="filter">Filter</string>
+    <string name="olusanText">olusanText</string>
+
+    <string name="event_prompt">Select your event type.</string>
+    <string-array name="event_types">
+        <item>Sport</item>
+        <item>Lesson</item>
+        <item>Chat</item>
+        <item>Eating</item>
+        <item>Transportation</item>
+    </string-array>
+
+    <string name="event_times_prompt">Select the validity period of the event.</string>
+    <string-array name="event_times">
+        <item>10 mins.</item>
+        <item>20 mins.</item>
+        <item>30 mins.</item>
+        <item>45 mins.</item>
+        <item>1 hours</item>
+    </string-array>
+
+    <string name="logout">LOGOUT</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="title_activity_verification_main">VerificationMain</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

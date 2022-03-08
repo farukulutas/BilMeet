@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout tools:context=".ui.slideshow.SlideshowFragment" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/asıl" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    -<LinearLayout android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/first" app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent" android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/EventName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:text="@string/Event_Name" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:text="IEEE" />
+
+    <TextView
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:text="Art Club" />
+
+</LinearLayout>
+
+
+    -<LinearLayout android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/second" app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toEndOf="@+id/first" android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/EventType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:text="@string/Event_Type" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:text="Meeting" />
+
+    <TextView
+        android:id="@+id/textView590"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:text="Free Drawing Activity" />
+
+</LinearLayout>
+
+
+    -<LinearLayout android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/third" app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toEndOf="@+id/second" android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/Time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:text="@string/Remaining_Time" />
+
+    <TextView
+        android:id="@+id/textView308"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:text="2 Hours" />
+
+    <TextView
+        android:id="@+id/textView690"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:text="30 Minutes" />
+
+</LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout12"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/first">
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
