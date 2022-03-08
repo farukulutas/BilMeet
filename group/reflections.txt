@@ -1,0 +1,18 @@
+# CS102 ~ Reflections ~
+First and foremost, we learned android studio, a new programming interface. We have created a user interface that fits our purpose. In general, 
+we did what we wanted to do in our application. For example, zooming in the pictures we add to the application using various libraries, such as 
+adding a mark. With the features we added, we designed a real map view that fits our purpose. By clicking on the brands, we created new dialogs 
+and enabled the events to be displayed. We managed to collect the codes that we cut into pieces by switching between activities. We have added 
+features related to database, registration and login to the application, and made the necessary limitations to make the application special for 
+bilkent students. (eg Bilkent no and webmail) In thought, designing android applications is not a difficult process. Most of the desired 
+features can be found in libraries on the Internet. However, various errors arising in the use of libraries can be the main compelling factors. 
+In addition to this, it is a good method to save time for the project to be divided into pieces and combined later. What we didn't like most 
+was that we got errors originating from emulator or android studio independent of java code. Even if there is no change in the project, the 
+emulator can start to give error after a day. Dealing with these is annoying and waste of time. It would be more logical to use google maps api 
+instead of going over the picture. Because the android version of google maps is easier to use for any device that has enough, to have a large 
+library and to be programmable. Nevertheless, the biggest factor to not use the google maps is that the real expectation in applications is 
+that it has enough features that even a person who does not really know can easily use it and is pleasing to the eye. In this regard, we 
+thought that the cute picture we added instead of google maps was better. The most challenging part of the project caused disruption and 
+slowdown of group meetings caused by the pandemic process and internet problems. We worked together for about 56 hours in group meetings. 
+However, we spent more than 70 hours of work per person with each group member research and the parts they worked on their own. Although we 
+have not been able to complete our project fully in this difficult process and uncertainties, we are proud of what we generally do.
